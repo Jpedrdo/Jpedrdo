@@ -6,8 +6,6 @@ I am a software engineer with experience in Typescript, React, C# and more. I al
 ---
 
 <p align="center">
-  <a href="https://github.com/Jpedrdo" style="text-decoration: none;">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Jpedrdo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jpedrdo&layout=compact&langs_count=7&theme=dracula" />
-  </a>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Jpedrdo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jpedrdo&layout=compact&langs_count=7&theme=dracula" />
 </p>
