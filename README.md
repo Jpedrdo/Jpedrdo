@@ -1,9 +1,11 @@
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jpedrdo&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jpedrdo&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jpedrdo&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+# Hi 👋 I am João Pedro! 
+I am a software engineer with experience in Typescript, React, C# and more. I always try to improve my skills and learn everything.
+
+- My [portfolio website](https://jpedrdo.github.io/Portfolio/) for more information and to get in touch.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Jpedrdo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jpedrdo&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jpedrdo&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+</p>
