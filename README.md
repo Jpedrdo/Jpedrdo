@@ -6,6 +6,6 @@ I am a software engineer with experience in Typescript, React, C# and more. I al
 ---
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jpedrdo&theme=bear&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jpedrdo&layout=compact&langs_count=7&theme=bear" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jpedrdo&theme=dracula&hide_border=false&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jpedrdo&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </p>
